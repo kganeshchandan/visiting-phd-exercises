@@ -15,3 +15,24 @@ Lab6_ML4NS https://colab.research.google.com/drive/1dtDpnVquFtbztxrUfj9Vtb-LhKkN
 Tutorial 7 -Intro-To-PyTorch.ipynb https://colab.research.google.com/drive/1aBcYQXeQSxGlZx8417SVhNEcJMUbyVxA?usp=sharing
 
 ML4DD - Lab  - Lab on PyTorch based LSTMs and CNNs.ipynb https://colab.research.google.com/drive/1W0Q9O1C6VRY-4Lrhcc93SVR41efDlNys?usp=sharing
+
+
+Q3 Classification
+https://github.com/devalab/ml4science_tut/blob/master/classification_task/Q3.ipynb
+
+Q8 classification
+https://github.com/devalab/ml4science_tut/blob/master/classification_task/Q8_task.ipynb
+
+solv regression
+https://github.com/devalab/ml4science_tut/blob/master/regression_task/Tutorial/regression.ipynb
+
+
+hydration regression todo
+https://github.com/devalab/ml4science_tut/blob/master/regression_task/Problem/problem.ipynb
+
+
+
+
+
+
+
